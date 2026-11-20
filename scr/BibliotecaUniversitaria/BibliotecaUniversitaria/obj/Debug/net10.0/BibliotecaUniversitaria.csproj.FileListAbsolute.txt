@@ -1,0 +1,15 @@
+C:\Users\Larar\OneDrive\Documentos\Lara_Brandao_PB_TP1\scr\BibliotecaUniversitaria\BibliotecaUniversitaria\bin\Debug\net10.0\BibliotecaUniversitaria.exe
+C:\Users\Larar\OneDrive\Documentos\Lara_Brandao_PB_TP1\scr\BibliotecaUniversitaria\BibliotecaUniversitaria\bin\Debug\net10.0\BibliotecaUniversitaria.deps.json
+C:\Users\Larar\OneDrive\Documentos\Lara_Brandao_PB_TP1\scr\BibliotecaUniversitaria\BibliotecaUniversitaria\bin\Debug\net10.0\BibliotecaUniversitaria.runtimeconfig.json
+C:\Users\Larar\OneDrive\Documentos\Lara_Brandao_PB_TP1\scr\BibliotecaUniversitaria\BibliotecaUniversitaria\bin\Debug\net10.0\BibliotecaUniversitaria.dll
+C:\Users\Larar\OneDrive\Documentos\Lara_Brandao_PB_TP1\scr\BibliotecaUniversitaria\BibliotecaUniversitaria\bin\Debug\net10.0\BibliotecaUniversitaria.pdb
+C:\Users\Larar\OneDrive\Documentos\Lara_Brandao_PB_TP1\scr\BibliotecaUniversitaria\BibliotecaUniversitaria\obj\Debug\net10.0\BibliotecaUniversitaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larar\OneDrive\Documentos\Lara_Brandao_PB_TP1\scr\BibliotecaUniversitaria\BibliotecaUniversitaria\obj\Debug\net10.0\BibliotecaUniversitaria.AssemblyInfoInputs.cache
+C:\Users\Larar\OneDrive\Documentos\Lara_Brandao_PB_TP1\scr\BibliotecaUniversitaria\BibliotecaUniversitaria\obj\Debug\net10.0\BibliotecaUniversitaria.AssemblyInfo.cs
+C:\Users\Larar\OneDrive\Documentos\Lara_Brandao_PB_TP1\scr\BibliotecaUniversitaria\BibliotecaUniversitaria\obj\Debug\net10.0\BibliotecaUniversitaria.csproj.CoreCompileInputs.cache
+C:\Users\Larar\OneDrive\Documentos\Lara_Brandao_PB_TP1\scr\BibliotecaUniversitaria\BibliotecaUniversitaria\obj\Debug\net10.0\BibliotecaUniversitaria.dll
+C:\Users\Larar\OneDrive\Documentos\Lara_Brandao_PB_TP1\scr\BibliotecaUniversitaria\BibliotecaUniversitaria\obj\Debug\net10.0\refint\BibliotecaUniversitaria.dll
+C:\Users\Larar\OneDrive\Documentos\Lara_Brandao_PB_TP1\scr\BibliotecaUniversitaria\BibliotecaUniversitaria\obj\Debug\net10.0\BibliotecaUniversitaria.pdb
+C:\Users\Larar\OneDrive\Documentos\Lara_Brandao_PB_TP1\scr\BibliotecaUniversitaria\BibliotecaUniversitaria\obj\Debug\net10.0\BibliotecaUniversitaria.genruntimeconfig.cache
+C:\Users\Larar\OneDrive\Documentos\Lara_Brandao_PB_TP1\scr\BibliotecaUniversitaria\BibliotecaUniversitaria\obj\Debug\net10.0\ref\BibliotecaUniversitaria.dll
+C:\Users\Larar\OneDrive\Documentos\Lara_Brandao_PB_TP1\scr\BibliotecaUniversitaria\BibliotecaUniversitaria\obj\Debug\net10.0\Bibliote.6DC82850.Up2Date
